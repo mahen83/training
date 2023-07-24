@@ -3,10 +3,10 @@
 The SELECT statement is one of the most fundamental and powerful statements in SQL, including T-SQL used in SQL Server. It is primarily used for retrieving data from one or more tables in a database. The SELECT statement allows you to specify the columns you want to retrieve, apply filtering conditions, and sort the results. Here is the basic syntax of the SELECT statement:
 
 
-`SELECT column1, column2, ...
-FROM table_name
-WHERE condition
-ORDER BY column_name;` 
+    SELECT column1, column2, ...
+    FROM table_name
+    WHERE condition
+    ORDER BY column_name; 
 
 Let's break down the components of the SELECT statement:
 
@@ -33,10 +33,12 @@ Let's say we have a table called "Employees" with columns "EmployeeID," "FirstNa
 
 sqlCopy code
 
-`SELECT FirstName, LastName
-FROM Employees
-WHERE Salary > 50000
-ORDER BY Salary DESC;` 
+    SELECT FirstName, LastName
+    FROM Employees
+    WHERE Salary > 50000
+    ORDER BY Salary DESC;
+
+ 
 
 This query will return the first name and last name of employees whose salary is greater than $50,000, sorted in descending order of their salary.
 
