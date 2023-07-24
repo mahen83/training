@@ -27,11 +27,14 @@ Installing and setting up the BI environment
    - Data Manipulation with INSERT, UPDATE, and DELETE
    
    - Inserting data into tables with INSERT statement Updating existing data with UPDATE statement    
-   - Deleting data with DELETE statement Joins and Subqueries
+   - Deleting data with DELETE statement
    
-  -  Understanding different types of JOINs (INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN) Using subqueries to retrieve data from multiple tables Aggregating Data with GROUP BY and HAVING
+   - Joins and Subqueries
    
-  -  Grouping data using GROUP BY clause Applying aggregate functions (COUNT, SUM, AVG, MAX, MIN) Filtering grouped data with HAVING clause
+  - Understanding different types of JOINs (INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN) Using subqueries to retrieve data from multiple tables Aggregating Data with GROUP BY and HAVING
+   
+  - Grouping data using GROUP BY clause Applying aggregate functions (COUNT, SUM, AVG, MAX, MIN) Filtering grouped data with HAVING clause
+  
   - Modifying Data with Transactions
    
   - Understanding transactions and their importance Using BEGIN TRANSACTION, COMMIT, and ROLLBACK statements Views and Stored Procedures
@@ -40,7 +43,6 @@ Installing and setting up the BI environment
    
   - T-SQL Functions Built-in T-SQL functions (String, Date, Numeric, etc.) Creating user-defined functions (scalar and table-valued)
   - Working with Indexes and Performance Optimization
-   
    - Understanding indexes and their impact on query performance Designing and optimizing queries for better performance 
    - Error Handling and Exception Handling
    
