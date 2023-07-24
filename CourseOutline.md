@@ -69,7 +69,7 @@ Installing and setting up the BI environment
 - Power BI Performance Optimization
 - Power BI Service and Collaboration Features
 
-**SQL Server Integration Services (SSIS)**
+**SQL Server Integration Services (SSIS) - (Obsolete)**
 
 - Introduction to SQL Server Integration Services
 - Control Flow and Data Flow in SSIS Packages
@@ -123,7 +123,7 @@ Installing and setting up the BI environment
 - Automating data integration workflows with triggers and event-based actions
 
 
-**SQL Server Reporting Services (SSRS)**
+**SQL Server Reporting Services (SSRS) - (Obsolete)**
 
 - Introduction to SQL Server Reporting Services
 - Creating and Formatting Reports in SSRS
