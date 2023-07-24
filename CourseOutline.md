@@ -18,7 +18,8 @@ Installing and setting up the BI environment
 
  - Introduction to T-SQL and SQL Server
    
-  - Overview of T-SQL and its features Understanding SQL Server and its components Data Retrieval with SELECT Statement
+  - Overview of T-SQL and its features Understanding SQL Server and its components.
+  - Data Retrieval with SELECT Statement
    
   - Writing basic SELECT queries Using WHERE clause to filter data Sorting query results with ORDER BY 
   - Working with NULL values Data Filtering and Conditional Logic
